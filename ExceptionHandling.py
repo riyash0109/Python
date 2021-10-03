@@ -1,8 +1,6 @@
-# *****************************
-# NAME - YASH                 *
-# REG NO. - 2147236           *
-# DATE - 3/10/2021            *
-# *****************************
+# LEARNING TO TAKE USE DATETIME IN PYTHON
+# LEARNING HOW TO USE EXCEPTION HANDLING IN OUR CODE
+# HOW TO VALIDATE A INPUT DATE
 
 
 from datetime import datetime
